@@ -32,7 +32,7 @@ go
 -- Constraint PK_Checks Primary key (CheckNumber, CheckOwner)
 -- );
 
----- Crear un índice único en la combinación de CheckNumber y CheckOwner
+---- Crear un Ã­ndice Ãºnico en la combinaciÃ³n de CheckNumber y CheckOwner
 -- Create unique index INDEX_CheckNumber_CheckOwner
 -- on Checks (CheckNumber, CheckOwner);
 
@@ -149,9 +149,9 @@ go
 
 --Ingreso de paquetes  
 insert into Packages ( Name, Description, CostPerPersonPerNight, PremiumPercentage, TermMonths) values
-( 'Todo Incluido', 'Paquete completo con alimentación y hospedaje.', 450.00, 0.45, 24),
-('Alimentación', 'Paquete que cubre todas las comidas durante la estancia.', 275.00, 0.35, 18),
-('Hospedaje', 'Paquete de hospedaje sin alimentación.', 210.00, 0.15, 12);
+( 'Todo Incluido', 'Paquete completo con alimentaciÃ³n y hospedaje.', 450.00, 0.45, 24),
+('AlimentaciÃ³n', 'Paquete que cubre todas las comidas durante la estancia.', 275.00, 0.35, 18),
+('Hospedaje', 'Paquete de hospedaje sin alimentaciÃ³n.', 210.00, 0.15, 12);
 
 ---Administrador
 insert into Users Values('admin@gmail.com', 'Administrador',12345,GETDATE(),'A','A');
@@ -159,12 +159,12 @@ insert into Users Values('admin@gmail.com', 'Administrador',12345,GETDATE(),'A',
 INSERT INTO Customers (CustomerId, IDType, Name, LastName, SecondLastName, Phone, Address, Email, Password)
 VALUES (
     1,
-    'Cédula Nacional',
+    'CÃ©dula Nacional',
     'Carlos',
-    'Sánchez',
-    'Rodríguez',
+    'SÃ¡nchez',
+    'RodrÃ­guez',
     '88889999',
-    'San José, Costa Rica',
+    'San JosÃ©, Costa Rica',
     'www.camila00@gmail.com',
     '1234Segura'
 )
@@ -204,3 +204,4 @@ DBCC CHECKIDENT ('Reservations', RESEED, 0);
 --este lo conecta con la tabla de moroso
 --por reserva se coloca si es moroso o no 
 
+--tactaca
