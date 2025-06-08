@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppWebHotelBeach
+build_property.RootNamespace = AppWebHotelBeach
+build_property.ProjectDir = C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\AppWebHotelBeach\AppWebHotelBeach\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\AppWebHotelBeach\AppWebHotelBeach
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/AdminDashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Cards/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/ClientDashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50RGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Customers/Customers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEN1c3RvbWVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Customers/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Customers/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Info/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb1xDb250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Packages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Packages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Packages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Packages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Packages/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnZXNcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Packages/Packages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnZXNcUGFja2FnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Reservations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Reservations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Reservations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Reservations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Reservations/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Reservations/Reservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXFJlc2VydmF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Reservations/SearchByCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXFNlYXJjaEJ5Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Shared/_LayoutClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDbGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Shared/_LayoutOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Lenguajes2025/ProyectoLenguajesComerciales/ProyectoLenguajes_MarcelaSharonCamila/Proyecto/AppWebHotelBeach/AppWebHotelBeach/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r9p2rpv0fe

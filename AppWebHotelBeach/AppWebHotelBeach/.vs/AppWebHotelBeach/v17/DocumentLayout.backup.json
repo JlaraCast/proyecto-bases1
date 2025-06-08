@@ -1,0 +1,780 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\packages\\packages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\packages\\packages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\packages\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\packages\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\packages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\packages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\packages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\packages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\packages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\packages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\packages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\packages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\reservations\\searchbycustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\reservations\\searchbycustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\reservations\\reservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\reservations\\reservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\reservations\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\reservations\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\reservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\reservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\reservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\reservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\reservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\reservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\models\\webreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:models\\webreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\clientdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\clientdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\customers\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\customers\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\customers\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\customers\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\customers\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\customers\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\info\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\info\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\models\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:models\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\views\\cards\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:views\\cards\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\models\\apihotelbeach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:models\\apihotelbeach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|c:\\lenguajes2025\\proyectolenguajescomerciales\\proyectolenguajes_marcelasharoncamila\\proyecto\\appwebhotelbeach\\appwebhotelbeach\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F860F87B-84DB-4A28-B5FD-179507955552}|AppWebHotelBeach.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAMMAAAAAAAAAAIBJwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-17T09:11:01.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Packages\\Delete.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Packages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T21:47:26.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Packages\\Details.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Details.cshtml",
+              "RelativeToolTip": "Views\\Packages\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:10:32.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Packages\\Edit.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Packages\\Edit.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T21:32:07.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Packages\\List.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\List.cshtml",
+              "RelativeToolTip": "Views\\Packages\\List.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAFcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T03:59:05.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Packages.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Packages.cshtml",
+              "RelativeDocumentMoniker": "Views\\Packages\\Packages.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Packages.cshtml",
+              "RelativeToolTip": "Views\\Packages\\Packages.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T02:29:53.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T04:58:26.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Packages\\Create.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Packages\\Create.cshtml",
+              "RelativeToolTip": "Views\\Packages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T03:50:05.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchByCustomer.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\SearchByCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\SearchByCustomer.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\SearchByCustomer.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\SearchByCustomer.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T08:36:13.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reservations.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Reservations.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Reservations.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Reservations.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Reservations.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T08:36:02.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\List.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\List.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\List.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T08:35:54.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Edit.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T08:35:51.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Details.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Details.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Details.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T08:35:48.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Delete.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T01:12:42.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Create.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Reservations\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Create.cshtml",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T03:54:49.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CardsController.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\CardsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CardsController.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\CardsController.cs",
+              "RelativeToolTip": "Controllers\\CardsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:49:24.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebReservation.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\WebReservation.cs",
+              "RelativeDocumentMoniker": "Models\\WebReservation.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\WebReservation.cs",
+              "RelativeToolTip": "Models\\WebReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:33:39.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:11:42.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Search.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Search.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Search.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAGsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:11:55.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\ClientDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ClientDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\ClientDashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\ClientDashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:12:38.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\AdminDashboard\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:12:47.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:11:39.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customers.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Customers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Customers.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Customers.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Customers.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:11:31.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:11:02.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAD4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T07:02:59.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\List.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\List.cshtml",
+              "RelativeToolTip": "Views\\Customers\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T04:16:29.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Info\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Info\\Contacto.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Info\\Contacto.cshtml",
+              "RelativeToolTip": "Views\\Info\\Contacto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:10:57.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAAHgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T04:14:39.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:10:10.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:26:21.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PackagesController.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\PackagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PackagesController.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\PackagesController.cs",
+              "RelativeToolTip": "Controllers\\PackagesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwDwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:56:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\Package.cs",
+              "RelativeDocumentMoniker": "Models\\Package.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\Package.cs",
+              "RelativeToolTip": "Models\\Package.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:07:21.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAqwDsBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:04:15.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InfoController.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\InfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InfoController.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\InfoController.cs",
+              "RelativeToolTip": "Controllers\\InfoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:00:52.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:12:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:39:21.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:58:14.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Check.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\Check.cs",
+              "RelativeDocumentMoniker": "Models\\Check.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\Check.cs",
+              "RelativeToolTip": "Models\\Check.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:42:12.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Cards\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cards\\Create.cshtml",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Views\\Cards\\Create.cshtml",
+              "RelativeToolTip": "Views\\Cards\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T01:51:40.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:05:45.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApiHotelBeach.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\ApiHotelBeach.cs",
+              "RelativeDocumentMoniker": "Models\\ApiHotelBeach.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\ApiHotelBeach.cs",
+              "RelativeToolTip": "Models\\ApiHotelBeach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:56:38.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "Models\\ExchangeRate.cs",
+              "ToolTip": "C:\\Lenguajes2025\\ProyectoLenguajesComerciales\\ProyectoLenguajes_MarcelaSharonCamila\\Proyecto\\AppWebHotelBeach\\AppWebHotelBeach\\Models\\ExchangeRate.cs",
+              "RelativeToolTip": "Models\\ExchangeRate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:33:20.747Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.csproj.AssemblyReference.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.AssemblyInfoInputs.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.AssemblyInfo.cs
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.csproj.CoreCompileInputs.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.MvcApplicationPartsAssemblyInfo.cs
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\appsettings.Development.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\appsettings.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.staticwebassets.endpoints.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.exe
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.deps.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.runtimeconfig.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.pdb
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Azure.Core.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Azure.Identity.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.ClientModel.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Text.Json.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\scopedcss\bundle\APIHotelBeachProyecto.styles.css
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.APIHotelBeachProyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.APIHotelBeachProyecto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.build.APIHotelBeachProyecto.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIHotelBeachProyecto.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIHotelBeachProyecto.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotel.BAA9DC30.Up2Date
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\refint\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.pdb
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.genruntimeconfig.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoPCamilaMarcela\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\ref\APIHotelBeachProyecto.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\appsettings.Development.json
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\appsettings.json
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.staticwebassets.endpoints.json
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.exe
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.deps.json
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.runtimeconfig.json
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.pdb
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Azure.Core.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Azure.Identity.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.ClientModel.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Text.Json.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.csproj.AssemblyReference.cache
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.AssemblyInfoInputs.cache
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.AssemblyInfo.cs
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.csproj.CoreCompileInputs.cache
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.MvcApplicationPartsAssemblyInfo.cs
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\scopedcss\bundle\APIHotelBeachProyecto.styles.css
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotel.BAA9DC30.Up2Date
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\refint\APIHotelBeachProyecto.dll
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.pdb
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.genruntimeconfig.cache
+C:\Clases UCR\Lenguajes 2025\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\ref\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\appsettings.Development.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\appsettings.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.staticwebassets.endpoints.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.exe
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.deps.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.runtimeconfig.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.pdb
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Azure.Core.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Azure.Identity.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\MailKit.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\MimeKit.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\QuestPDF.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.ClientModel.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Text.Json.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-arm64\native\libcrypto.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-arm64\native\libjpeg.so.8
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libcrypto.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libjpeg.so.8
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libcrypto.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libjpeg.so.8
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-arm64\native\libcrypto.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-arm64\native\libjpeg.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-x64\native\libcrypto.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-x64\native\libjpeg.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.csproj.AssemblyReference.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.AssemblyInfoInputs.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.AssemblyInfo.cs
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.csproj.CoreCompileInputs.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.MvcApplicationPartsAssemblyInfo.cs
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\scopedcss\bundle\APIHotelBeachProyecto.styles.css
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.APIHotelBeachProyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.APIHotelBeachProyecto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.build.APIHotelBeachProyecto.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIHotelBeachProyecto.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIHotelBeachProyecto.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotel.BAA9DC30.Up2Date
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\refint\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.pdb
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.genruntimeconfig.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoFinalSHA\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\ref\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\appsettings.Development.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\appsettings.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.staticwebassets.endpoints.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.exe
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.deps.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.runtimeconfig.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\APIHotelBeachProyecto.pdb
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Azure.Core.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Azure.Identity.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\MailKit.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\MimeKit.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\QuestPDF.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.ClientModel.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Text.Json.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-arm64\native\libcrypto.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-arm64\native\libjpeg.so.8
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libcrypto.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libjpeg.so.8
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libcrypto.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libjpeg.so.8
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-arm64\native\libcrypto.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-arm64\native\libjpeg.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-x64\native\libcrypto.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-x64\native\libjpeg.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.csproj.AssemblyReference.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.AssemblyInfoInputs.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.AssemblyInfo.cs
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.csproj.CoreCompileInputs.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.MvcApplicationPartsAssemblyInfo.cs
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\scopedcss\bundle\APIHotelBeachProyecto.styles.css
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.APIHotelBeachProyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.APIHotelBeachProyecto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.build.APIHotelBeachProyecto.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIHotelBeachProyecto.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIHotelBeachProyecto.props
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotel.BAA9DC30.Up2Date
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\refint\APIHotelBeachProyecto.dll
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.pdb
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\APIHotelBeachProyecto.genruntimeconfig.cache
+C:\Lenguajes2025\ProyectoLenguajesComerciales\ProyectoLenguajes_MarcelaSharonCamila\Proyecto\APIHotelBeachProyecto\APIHotelBeachProyecto\obj\Debug\net8.0\ref\APIHotelBeachProyecto.dll

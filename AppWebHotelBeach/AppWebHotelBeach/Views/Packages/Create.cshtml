@@ -1,0 +1,128 @@
+﻿@model AppWebHotelBeach.Models.Package
+
+@{
+    ViewData["Title"] = "Registrar Paquete";
+}
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #f5f7fa;
+        font-family: 'Segoe UI', sans-serif;
+        color: #0c193b;
+    }
+
+    h2 {
+        text-align: center;
+        margin-top: 2rem;
+        font-size: 2rem;
+    }
+
+    .form-card {
+        background: #fff;
+        max-width: 600px;
+        margin: 2rem auto;
+        padding: 2rem;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 12px;
+    }
+
+    .form-group {
+        margin-bottom: 1.25rem;
+    }
+
+        .form-group label {
+            font-weight: 600;
+        }
+
+    .form-control {
+        border-radius: 6px;
+        box-shadow: none;
+    }
+
+    .btn-primary {
+        background-color: #2e7d32;
+        border-color: #2e7d32;
+        color: white;
+        display: block;
+        margin: 1.5rem auto 0 auto;
+        padding: 0.6rem 2rem;
+        font-size: 1rem;
+        border-radius: 6px;
+    }
+
+        .btn-primary:hover {
+            background-color: #1b5e20;
+            border-color: #1b5e20;
+        }
+
+    .alert-danger {
+        margin-top: 1rem;
+    }
+
+    .text-danger {
+        font-size: 0.9rem;
+    }
+
+    a {
+        color: #0c193b;
+        text-decoration: none;
+        font-weight: 600;
+        display: block;
+        text-align: center;
+        margin-top: 2rem;
+    }
+
+        a:hover {
+            text-decoration: underline;
+        }
+</style>
+
+<h2>Registrar nuevo paquete</h2>
+
+<div class="form-card">
+    <form asp-action="Create" novalidate>
+        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Description"></label>
+            <input asp-for="Description" class="form-control" />
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="CostPerPersonPerNight"></label>
+            <input asp-for="CostPerPersonPerNight" class="form-control" />
+            <span asp-validation-for="CostPerPersonPerNight" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="PremiumPercentage"></label>
+            <input asp-for="PremiumPercentage" class="form-control" />
+            <span asp-validation-for="PremiumPercentage" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="TermMonths"></label>
+            <input asp-for="TermMonths" class="form-control" />
+            <span asp-validation-for="TermMonths" class="text-danger"></span>
+        </div>
+
+        <input type="submit" value="Registrar Paquete" class="btn btn-primary" />
+    </form>
+
+    <a asp-action="List">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

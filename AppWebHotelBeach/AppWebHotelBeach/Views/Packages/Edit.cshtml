@@ -1,0 +1,73 @@
+﻿@model AppWebHotelBeach.Models.Package
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Package</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="PackageId" class="control-label"></label>
+                <input asp-for="PackageId" class="form-control" readonly />
+                <span asp-validation-for="PackageId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CostPerPersonPerNight" class="control-label"></label>
+                <input class="form-control"
+                       name="CostPerPersonPerNight"
+                       value="@Model.CostPerPersonPerNight.ToString(System.Globalization.CultureInfo.InvariantCulture)" />
+                <span asp-validation-for="CostPerPersonPerNight" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PremiumPercentage" class="control-label"></label>
+                <input class="form-control"
+                       name="PremiumPercentage"
+                       value="@Model.PremiumPercentage.ToString(System.Globalization.CultureInfo.InvariantCulture)" />
+                <span asp-validation-for="PremiumPercentage" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="TermMonths" class="control-label"></label>
+                <input asp-for="TermMonths" class="form-control" />
+                <span asp-validation-for="TermMonths" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="List">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
